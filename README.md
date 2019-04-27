@@ -1,2 +1,3 @@
 # spider
-git clone git clone https://github.com/troybot/spider.git ;cd spider;chmod +x ins;./ins
+
+git clone https://github.com/troybot/spider.git; cd spider;chmod +x tg;chmod +x spider.sh;chmod +x SM;./spider.sh
